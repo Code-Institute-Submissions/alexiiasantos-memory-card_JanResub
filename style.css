@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 body{
     background-color: #ECDFEF;
@@ -8,7 +8,18 @@ body{
     margin-bottom: 0px;
 }
 
-.background img{
-    margin-left: 800px;
+#title h1{
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    color: #350B48;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 150px;
 }
+
+#background img{
+    margin-left: 150px;
+}
+
+
 
