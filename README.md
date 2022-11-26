@@ -12,7 +12,13 @@ This project aims to show my new acquired skills in design and create a static w
 
 ![_cards images](https://user-images.githubusercontent.com/111059036/204100851-6627a913-ab98-41a0-8f8d-d3fc2c2b3595.png)
 
-My inspiration for this theme is related to one of my favourite holidays, the halloween. The pictures for the cards were all made in canvas.com
+My inspiration for this theme is related to one of my favourite holidays, the halloween. The pictures for the cards were all made in https://www.canva.com/ in the editor mode. I selected the elements I wanted and created the images for the cards.
+
+• **Pastel icons** - The pastel icons were made by @sketchify.
+
+• **Front card background** - The background was made by @shamiss.
+
+• **Front card background** - The cat icon was made by @sparklestroke and the sparkle on the background was made by @amethyststudio,
 
 
   
