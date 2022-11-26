@@ -155,7 +155,7 @@ The sounds would make the website more interactive and more fun to play for the 
    • https://stackoverflow.com/
    
    
-   **Acknowledgements**
+   # Acknowledgements
    
    Special thanks to my colleagues on Slack for sharing valuable learning sources and their struggles during this course phase.
    
