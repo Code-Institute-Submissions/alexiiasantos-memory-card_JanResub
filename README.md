@@ -10,8 +10,10 @@ This project aims to show my new acquired skills in design and create a static w
 # Design
 
 
+![_cards images](https://user-images.githubusercontent.com/111059036/204100851-6627a913-ab98-41a0-8f8d-d3fc2c2b3595.png)
 
-![cards](https://user-images.githubusercontent.com/111059036/204100807-39664355-6d2b-46ae-adfe-97737b20168f.png)
+My inspiration for this theme is related to one of my favourite holidays, the halloween. The pictures for the cards were all made in canvas.com
+
 
   
   # Testing
