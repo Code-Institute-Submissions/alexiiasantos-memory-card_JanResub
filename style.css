@@ -92,6 +92,27 @@ body{
     }
   }
 
+  /* media queries for tablets */
+
+  @media (max-width:1024px){
+
+
+    @keyframes overlay-grow {
+        from {
+          background-color: rgb(239, 213, 244);
+          font-size: 0;
+        }
+        to {
+          background-color: rgba(239, 213, 244);
+          font-size: 5em;
+        }
+      }
+  }
+
+
+
+
+
 
   /* media queries for mobile */
 
@@ -117,6 +138,7 @@ body{
           font-size: 5em;
         }
       }
+    
 
   }
 

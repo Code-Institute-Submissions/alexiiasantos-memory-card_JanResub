@@ -72,7 +72,6 @@ function ready() {
     overlays.forEach(overlay => {
         overlay.addEventListener('click', () => {
             overlay.classList.remove('visible');
-            game.startGame();
         });
     });
 
