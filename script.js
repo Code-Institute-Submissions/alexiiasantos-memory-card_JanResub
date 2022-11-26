@@ -60,5 +60,4 @@ function checkForMatch() {
     });
   })();
 
-
 cards.forEach(card => card.addEventListener('click', flipCard));
