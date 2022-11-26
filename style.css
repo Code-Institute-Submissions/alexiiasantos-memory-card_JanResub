@@ -1,11 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 body{
-    background-image: url(/images/background.png);
     background-size: 1500px;
     background-color: #ECDFEF;
-    background-position: center;
-    background-repeat: no-repeat;
     margin: 0, 0, 0, 0;
 }
 
